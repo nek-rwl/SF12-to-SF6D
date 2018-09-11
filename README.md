@@ -29,4 +29,4 @@ SF12::SF12_to_PF(means = c(PCS = 44, MCS = 53), SDs = c(PCS = 10, MCS = 9))
 #> [1] 0.54015105 0.37864838 0.08120056
 ```
 
-For further description and help on each of these functions, see the included package help files (?SF12toSF6D).
+For further description and help on each of these functions, see the included package help files (`?SF12toSF6D`).
