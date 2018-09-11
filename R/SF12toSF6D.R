@@ -1,4 +1,4 @@
-#' SF12: Predict mean SF-6D utilities from SF-12 scores in osteoarthritis patients.
+#' SF12toSF6D: Predict mean SF-6D utilities from SF-12 scores in osteoarthritis patients.
 #'
 #' This package provides calculators to estimate SF-6D distributions, mean SF-6D utility values, and uncertainty
 #' intervals around the predicted mean values from group summary SF-12 PCS and MCS scores in people with osteoarthritis,
@@ -17,5 +17,5 @@
 #'   distributions of SF-6D dimensions, based on sample PCS and MCS scores.
 #'
 #' @docType package
-#' @name SF12
+#' @name SF12toSF6D
 NULL
